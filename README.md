@@ -50,15 +50,13 @@ npm install -g expo-cli
 
 ### 🔹 Installation
 1. Clone the repository:
-```
-bash
+```bash
 git clone https://github.com/Lido1997/ArtVista.git
 cd ArtVista
 ```
 
 2. Install dependencies:
-```
-bash
+```bash
 npm install
 ```
 
@@ -77,7 +75,6 @@ EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
 
 4. Start the development server:
-```
-bash
+```bash
 npx expo start
 ```
