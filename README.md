@@ -44,8 +44,7 @@ ArtVista/
 ### 🔹 Prerequisites
 - Node.js (v18 or later)
 - Expo CLI:
-```
-bash
+```bash
 npm install -g expo-cli
 ```
 
